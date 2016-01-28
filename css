@@ -82,7 +82,7 @@
 @font-face {
   font-family: 'Roboto';
   font-style: normal;
-  font-weight: 700;
+  font-weight: 900;
   src: local('Roboto Light'), local('Roboto-Light'), url(http://fonts.gstatic.com/s/roboto/v15/I3S1wsgSg9YCurV6PUkTOYX0hVgzZQUfRDuZrPvH3D8.woff2) format('woff2');
   unicode-range: U+0370-03FF;
 }
@@ -90,7 +90,7 @@
 @font-face {
   font-family: 'Roboto';
   font-style: normal;
-  font-weight: 300;
+  font-weight: 400;
   src: local('Roboto Light'), local('Roboto-Light'), url(http://fonts.gstatic.com/s/roboto/v15/NYDWBdD4gIq26G5XYbHsFIX0hVgzZQUfRDuZrPvH3D8.woff2) format('woff2');
   unicode-range: U+0102-0103, U+1EA0-1EF1, U+20AB;
 }
@@ -114,7 +114,7 @@
 @font-face {
   font-family: 'Roboto';
   font-style: normal;
-  font-weight: 400;
+  font-weight: 600;
   src: local('Roboto'), local('Roboto-Regular'), url(http://fonts.gstatic.com/s/roboto/v15/sTdaA6j0Psb920Vjv-mrzH-_kf6ByYO6CLYdB4HQE-Y.woff2) format('woff2');
   unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
 }

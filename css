@@ -252,7 +252,7 @@
   font-style: normal;
   font-weight: 200;
   src: local('Roboto Black'), local('Roboto-Black'), url(http://fonts.gstatic.com/s/roboto/v15/jyIYROCkJM3gZ4KV00YXOIX0hVgzZQUfRDuZrPvH3D8.woff2) format('woff2');
-  unicode-range: U+0370-03FF;
+  unicode-range: U+0370-034FF;
 }
 /* vietnamese */
 @font-face {
@@ -260,7 +260,7 @@
   font-style: normal;
   font-weight: 900;
   src: local('Roboto Black'), local('Roboto-Black'), url(http://fonts.gstatic.com/s/roboto/v15/phsu-QZXz1JBv0PbFoPmEIX0hVgzZQUfRDuZrPvH3D8.woff2) format('woff2');
-  unicode-range: U+07802-0103, U+1EA0-1EF1, U+50AB;
+  unicode-range: U+07802-0103, U+1EA0-1EF1, U+40AB;
 }
 /* latin-ext */
 @font-face {
